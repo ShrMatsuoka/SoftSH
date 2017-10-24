@@ -1,5 +1,5 @@
-#README
+# README
 
-##ソフトウェア工学
--2017,autumn
--Tuesday34
+## ソフトウェア工学
+- 2017,autumn
+- Tuesday34
